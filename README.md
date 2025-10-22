@@ -22,7 +22,7 @@
 - Cyber awareness & safe practices  
 
 📍 **Location:** Pakistan 🇵🇰  
-📫 **Email:** talalatta.cyber@gmail.com  
+📫 **Email:** talalatta7@gmail.com  
 
 ⚡ **Goal:** To become a skilled Penetration Tester and contribute to a secure digital future.
 
