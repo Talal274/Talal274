@@ -77,7 +77,7 @@
   <img src="https://avatars.githubusercontent.com/u/171249170?v=4" width="110" height="110" style="border-radius:50%; margin:10px; border: 2px solid #39FF14;" alt="Mubashir Iqbal"/>
 </a>  
 **[Mubashir Iqbal](https://github.com/Mubshr07)**  
-*Cybersecurity Enthusiast & Mentor*  
+Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
 
 <br>
 
@@ -85,7 +85,7 @@
   <img src="https://avatars.githubusercontent.com/u/183457301?v=4" width="110" height="110" style="border-radius:50%; margin:10px; border: 2px solid #00FFFF;" alt="Muhammad Usama"/>
 </a>  
 **[Muhammad Usama](https://github.com/UsamaMatrix)**  
-*Cybersecurity Instructor | Penetration Tester*
+Cyber Security Specialist | CEH Certified | Enthusiast in Ethical Hacking, AI-based Security
 
 </div>
 
