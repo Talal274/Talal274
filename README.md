@@ -86,7 +86,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Talal274)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/talal-atta-352369335_activity-7257288126019055616-X0VK?utm_source=share&utm_medium=member_android&rcm=ACoAAFQ8mK4B_3yrlHdtG65jixQ9yJBAf1XbZAs)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
+
 
 ---
 
