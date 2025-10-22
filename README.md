@@ -70,17 +70,8 @@
 
 ## 📌 Pinned Repositories
 
-- **🧰 [Linux-Permissions-Practice](https://github.com/Talal274/Linux-Permissions-Practice)**  
-  Hands-on practice with file permissions, ownership, and access control in Linux.
-
-- **🔍 [Network-Security-Basics](https://github.com/Talal274/Network-Security-Basics)**  
-  My notes and examples on network scanning and basic pentesting tools.
-
-- **📗 [Cyber-Security-Lab-Reports](https://github.com/Talal274/Cyber-Security-Lab-Reports)**  
-  Collection of my university and practice lab exercises.
-
-- **💻 [C++-Projects](https://github.com/Talal274/CPP-Projects)**  
-  Small programs written while learning C++ and basic logic building.
+-   
+ 
 
 ---
 
