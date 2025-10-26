@@ -1,29 +1,26 @@
 <h1 align="center">👋 Welcome, I'm <span style="color:#00FFBF;">Talal Atta</span></h1>
-<h3 align="center" style="color:#00CED1;">Cyber Security Student | Future Ethical Hacker | Linux & Networking Enthusiast</h3>
-<h4 align="center" style="color:#39FF14;">🎓 BS Cyber Security - Learning to Secure the Digital World</h4>
+<h3 align="center">Cyber Security Student | Future Ethical Hacker | Linux & Networking Explorer</h3>
 
-<div align="center">
-  <img src="https://i.gifer.com/origin/4c/4cf18e8eb36fda1bbdfe7c818b54a6b7.gif" width="600" alt="Matrix Hacker Animation"/>
-</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/your-gif-file.gif" width="500" alt="Cyber Security Animation"/>
+</p>
+
+
+
+
 
 ---
 
 ## 🚀 About Me
 
-🔐 I'm a **Cyber Security student** passionate about **ethical hacking**, **network defense**, and **Linux system security**.  
-💻 I love exploring penetration testing tools, access control systems, and forensics.  
-📚 Constantly learning how **cyber threats** work — and how to stop them.
+🔐 A **Cyber Security student** passionate about securing the digital world.  
+🛡️ Learning penetration testing, network defense & forensics.  
+🐧 Linux terminal is my playground.  
+🎯 Mission: Become a **Professional Penetration Tester** 🕵️‍♂️
 
-💬 **Ask me about:**  
-- Linux commands & file permissions 🐧  
-- Network security fundamentals 🌐  
-- Ethical hacking tools 🧰  
-- Cyber awareness & safe online practices 🧠  
-
-📍 **Location:** Pakistan 🇵🇰  
+📍 **Location:** Rahim Yar Khan, Pakistan 🇵🇰  
 📫 **Email:** [talalatta7@gmail.com](mailto:talalatta7@gmail.com)
-
-⚡ **Goal:** To become a skilled **Penetration Tester** and help secure the digital world. 🕵️‍♂️
 
 ---
 
@@ -38,65 +35,53 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
 
-🛠️ Tools I’m learning:
+🛠️ Tools I’m currently learning:
 - Kali Linux 🐉  
-- Wireshark  
-- Nmap  
-- Metasploit (basic)  
-- VS Code  
+- Nmap | Metasploit | Burp Suite  
+- Wireshark (Network Analysis)  
 - Git & GitHub  
+- Visual Studio Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <a href="https://github.com/Talal274/AI-Lab-Python-code">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talal274&show_icons=true&theme=radical&count_private=true"/>
-  </a>
-  <a href="https://github.com/Talal274/AICT-Project">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal274&layout=compact&theme=radical"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Talal274&show_icons=true&theme=dark&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal274&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  🔗 Explore my repositories:  
-  👉 <a href="https://github.com/Talal274/AI-Lab-Python-code">AI Lab Python Code</a>  
-  👉 <a href="https://github.com/Talal274/AICT-Project">AICT Final Project</a>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Talal274&theme=dark"/>
 </p>
 
 ---
 
-## 💻 Credits & Support
+## 🚩 Featured Cyber Projects
 
-<div align="center">
+| 🔗 Project Name | 📁 Repository |
+|----------------|---------------|
+| ⚡ Python AI Lab Work | 👉 [Click Here](https://github.com/Talal274/AI-Lab-Python-code) |
+| 🔐 AICT Project | 👉 [Click Here](https://github.com/Talal274/AICT-Project) |
 
-### 🧠 Special Thanks To:
+---
 
-<a href="https://github.com/Mubshr07" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/171249170?v=4" width="110" height="110" style="border-radius:50%; margin:10px; border: 2px solid #39FF14;" alt="Mubashir Iqbal"/>
-</a>  
-**[Mubashir Iqbal](https://github.com/Mubshr07)**  
-Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
+## 💻 Special Thanks
 
-<br>
-
-<a href="https://github.com/UsamaMatrix" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/183457301?v=4" width="110" height="110" style="border-radius:50%; margin:10px; border: 2px solid #00FFFF;" alt="Muhammad Usama"/>
-</a>  
-**[Muhammad Usama](https://github.com/UsamaMatrix)**  
-Cyber Security Specialist | CEH Certified | Enthusiast in Ethical Hacking, AI-based Security
-
-</div>
+| Mentor | GitHub |
+|--------|--------|
+| **Mubashir Iqbal** | [@Mubshr07](https://github.com/Mubshr07) |
+| **Muhammad Usama** | [@UsamaMatrix](https://github.com/UsamaMatrix) |
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal274)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/talal-atta-352369335_activity-7257288126019055616-X0VK)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/talal-atta-352369335_activity-7257288126019055616-X0VK)
+![Profile Views](https://komarev.com/ghpvc/?username=Talal274&style=for-the-badge&color=gray)
 
 ---
 
-> 🧩 *“The best defense is understanding the attack.”*  
-> — <b style="color:#39FF14;">Talal Atta</b>
+> **🧩 “The best defense is understanding the attack.”** — <span style="color:#39FF14;">Talal Atta</span>
+
