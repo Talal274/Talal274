@@ -30,6 +30,14 @@
 
 ---
 
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/talal-atta-352369335_activity-7257288126019055616-X0VK)
+![Profile Views](https://komarev.com/ghpvc/?username=Talal274&style=for-the-badge&color=gray)
+
+---
+
 ## 🧠 Skills & Tools (Learning Phase)
 
 <p align="center">
@@ -78,14 +86,6 @@
 |--------|--------|
 | **Mubashir Iqbal** | [@Mubshr07](https://github.com/Mubshr07) |
 | **Muhammad Usama** | [@UsamaMatrix](https://github.com/UsamaMatrix) |
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal274)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/talal-atta-352369335_activity-7257288126019055616-X0VK)
-![Profile Views](https://komarev.com/ghpvc/?username=Talal274&style=for-the-badge&color=gray)
 
 ---
 
